@@ -82,7 +82,7 @@
  * Values: ET_BOARD_SILENT, ET_BOARD_NOISY
  */
 
-//#define ET_BOARD                  ET_BOARD_SILENT
+#define ET_BOARD                  ET_BOARD_SILENT
 
 
 /**
@@ -128,7 +128,7 @@
  * Type: Optional 
  */
 
-#define ET_CUSTOM_MACHINE_NAME     "Anet ET4" 
+#define ET_CUSTOM_MACHINE_NAME     "Harambe ET4" 
 
 // ----------------------------------------------
 // 3. Basic Post-installation configuration steps
